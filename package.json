@@ -9,6 +9,9 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "repository": {
+    "url": "https://github.com/SandipDhang/react-instant-form.git"
+  },
   "keywords": [
     "react",
     "react-form"
