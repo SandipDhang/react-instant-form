@@ -1,6 +1,6 @@
 {
   "name": "react-instant-form",
-  "version": "1.0.0",
+  "version": "1.0.1n",
   "description": "A React form library that takes and JSON object to create a full functional form ",
   "main": "dist/index.js",
   "scripts": {
