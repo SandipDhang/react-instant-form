@@ -2,7 +2,7 @@
   "name": "react-instant-form",
   "version": "1.0.0",
   "description": "A React form library that takes and JSON object to create a full functional form ",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
