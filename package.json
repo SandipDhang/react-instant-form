@@ -1,5 +1,5 @@
 {
-  "name": "react-quick-form",
+  "name": "react-instant-form",
   "version": "1.0.0",
   "description": "A React form library that takes and JSON object to create a full functional form ",
   "main": "index.js",
