@@ -4,12 +4,12 @@ This library is to create a form in React.js through a JSON format
 
 # Usage
 
-```
+```js
 import InstantForm from "react-instant-form";
 import * as Yup from "yup";
 
 const Mycomponent = () => {
-     const formObject = {
+  const formObject = {
     onSubmit: (values) => console.log(values, "Submitted from InstantForm"),
     fields: {
       firstName: {
@@ -117,6 +117,6 @@ const Mycomponent = () => {
       },
     },
   };
-    return <InstantForm formObject={formObject} />
-}
+  return <InstantForm formObject={formObject} />;
+};
 ```
